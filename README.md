@@ -1,31 +1,33 @@
-# [Project Name] 🎯
+# [Money Tracking App] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## This app is a digital tool designed to help individuals or organisations to manage their finances.The primary purpose of the app is to provide a clear view of how money is being spent,helping users make informed financial decisions.
+
+
+### Team Name: [Commanders]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Diya Kiran] - [College Of Engineering Thalassery]
+- Member 2: [Keerthana V Nambiar] - [College Of Engineering Thalassery ]
 - Member 3: [Name] - [College]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://diya-kiran.github.io/money-tracking-website/
 
 ### Project Description
-[2-3 lines about what your project does]
+[This app is a digital tool designed to help individuals or organisations to manage their finances.The primary purpose of the app is to provide a clear view of how money is being spent,helping users make informed financial decisions.The app offers a simple,efficient,and organized way to stay top of your finances,and develop healthy spending and saving habits.
+]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[The ridiculous problem that is solved by a Money Tracking Website is financial chaos not knowing where your money goes,overspending,missing bill payments and living without a clear budget]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
-
-## Technical Details
+[The app helps users categorize their expenses(eg:food,shopping,bills etc)]
+## Technical details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [javascript,css,html]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -91,8 +93,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Diya Kiran]: [website devolpment]
+- [Keerthana V Nambiar]: [website devolpment]
 - [Name 3]: [Specific contributions]
 
 ---
